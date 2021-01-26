@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Deeksha sharma - 12
+          Deeksha-12
         </p>
         <a
           className="App-link"
@@ -25,4 +25,4 @@ function App() {
 
 export default App;
 
-ok
+
